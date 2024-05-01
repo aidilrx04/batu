@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">batu</string>
+    <string name="title_activity_main">batu</string>
+    <string name="package_name">com.solah.gay</string>
+    <string name="custom_url_scheme">com.solah.gay</string>
+</resources>
